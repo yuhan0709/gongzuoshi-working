@@ -1,0 +1,51 @@
+
+#lb{
+	margin-left: -40px;
+}
+#lb li{
+	list-style: none;
+	float: left;
+}
+#lb img{
+	width: 900px;
+	height: 320px;
+}
+#lb{
+	width: 8000px;
+}
+.kuang{
+	width: 900px;
+	height: 450px;
+	overflow: hidden;
+}
+#small{
+	margin-left: -40px;
+}
+#small li{
+	list-style: none;
+	float: left;
+
+}
+#small img{
+	width: 130px;
+	height: 60px;
+	margin-left: 15px;
+}
+#anniu{
+	position: absolute;
+	top:305px;
+	z-index: 50;
+
+}
+#right{
+	margin-left: 813px;
+}
+#dianji{
+	width: 150px;
+	height: 60px;
+	background-color: white;
+	z-index: 50;
+    position:absolute;
+    top:347px;
+    opacity: 0.7;
+}

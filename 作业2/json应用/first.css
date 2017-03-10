@@ -1,0 +1,111 @@
+.all{
+	width: 1300px;
+/*	height:2000px;*/
+	border:2px solid #F2F2F2;
+	margin:0 auto;
+}
+.head p{
+	margin-top:40px;
+	width: 1200px;
+	height: 60px;
+	font-family:"隶书";
+	font-size: 50px;
+	background-color: #CCCCCC;
+	text-shadow: 4px 4px 10px #F2F2F2;
+	box-shadow: 5px 5px 15px #4B4B4B;
+	margin:0 auto;
+}
+.head img{
+	width: 1200px;
+	height: 400px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.head hr{
+	width: 1200px;
+	margin-left: 50px;
+}
+.b1{
+    margin-top:0px;
+	margin-left:100px;
+}
+.b2{
+	margin-left: 100px;
+	margin-top: 20px;
+}
+.t1{
+    width: 1000px;
+    height: 40px;
+    font-family: "隶书";
+    font-size: 30px;
+    background-color:#E9E9E9;
+    margin-top:20px;
+    box-shadow: 2px 2px 5px #4B4B4B;
+
+}
+.xian{
+	margin-top:50px;
+	width: 1200px;
+	margin-left:-50px;
+}
+.tm{
+	margin-left:50px;
+}
+.tma{
+	display:inline;
+}
+.nr{
+	font-size: 17px;
+	font-family:"幼圆";
+	line-height: 25px;
+	margin-left:40px;
+	font-size:20px;
+}
+.dz{
+	margin-top:0px; 
+	margin-left:780px;
+}
+.zana{
+    margin-left:750px;
+    margin-top: -20px;
+
+}
+.fy{
+    width: 350px;
+    height: 40px;
+    background-color: #CCCCCC;
+	box-shadow: 5px 5px 15px #4B4B4B;
+	font-size: 25px;
+	font-weight: bold;
+	font-family: "隶书";
+	margin:0 auto;
+	position: absolute;
+	top: 2300px;
+	left: 500px;
+
+}
+#first{
+	float: left;
+	margin-left:120px;
+/*	width: 20px;
+	height: 30px;
+	border: 1px solid #272822;*/
+}
+#one{
+	float: left;
+	margin-left: 20px;
+}
+
+#two{
+	margin-left: 20px;
+	float: left;
+}
+#last{
+	margin-left: 20px;
+	float: left;
+
+}
+a{
+	text-decoration: none;
+	color: black;
+}

@@ -1,0 +1,36 @@
+.table1 td{
+
+	width: 160px;
+	height:40px;
+	background-color:  #111111;
+	color: #CCCCCC;
+	font-size: 15px;
+}
+a{
+	color: inherit;
+	text-decoration: none; 
+
+}
+#table4 td{
+
+	width: 160px;
+	height:40px;
+	background-color:  #111111;
+	color: #CCCCCC;
+	font-size: 15px;
+}
+#table4{
+	margin-left: 165px;
+	margin-top:-311px;
+}
+#table5 td{
+	width: 160px;
+	height:40px;
+	background-color:  #111111;
+	color: #CCCCCC;
+	font-size: 15px;
+}
+#table5{
+	margin-left: 165px;
+	margin-top:-178px;
+}
